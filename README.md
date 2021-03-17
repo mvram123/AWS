@@ -1,3 +1,3 @@
 # AWS
 
-Created a Maching Learning Project Using Amazon Sage Maker
+Basics of AWS S3, SageMaker and EC2
